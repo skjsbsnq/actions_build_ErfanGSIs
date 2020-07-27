@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.I.21_OTA_021_all_2007160041_cb446a76a5f94cf7.zip
+  ROM_NAME: oxygenos
   TZ: Asia/Shanghai
 
 jobs:
